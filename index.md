@@ -13,10 +13,11 @@ Email-*guangyuanhao[at]outlook[dot]com*
 <br>
 
 ## Academic Background
-<!-- [Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
-**<font color='red'>
-- **Sep 2012 - July 2016:** University of Electronic Science and Technology of China, B.E. in Information Display and Optoelectronic Technology
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
+
 - **Sep 2020 - Sep 2022:** Hong Kong University of Science and Technology, Master of Philosophy in Individualized Interdisciplinary Program (Artificial Intelligence)
+- **Sep 2012 - July 2016:** University of Electronic Science and Technology of China, B.E. in Information Display and Optoelectronic Technology
+
 
 
 <br>
