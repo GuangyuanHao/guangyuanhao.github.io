@@ -8,7 +8,7 @@ url: https://guangyuanhao.github.io
 owner:
   name: Guangyuan Hao
   avatar: guangyuanhao.jpg
-  bio: Two roads diverged in woods, I took the one less traveled by.
+  # bio: Two roads diverged in woods, I took the one less traveled by.
   email: guangyuanhao@outlook.com
   cv: https://guangyuanhao.github.io/file/Resume.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -40,16 +40,16 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Teams
+  #   url: /teams/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Notes
     # url: /notes/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
