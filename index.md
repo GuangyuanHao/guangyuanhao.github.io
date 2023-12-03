@@ -28,7 +28,8 @@ Email-*guangyuanhao[at]outlook[dot]com*
 
 
 - Causality
--  Machine Learning
+- Safe /Trusthworthy AI
+- Physics of LLMs
 
 My interest lies in the **Machine Learning**.
 
