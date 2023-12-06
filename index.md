@@ -16,26 +16,22 @@ Email-*guangyuanhao[at]outlook[dot]com*
 
 <br>
 
-## Academic Background
-<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
-
-- **Sep 2020 - Sep 2022:** Hong Kong University of Science and Technology, Master of Philosophy (MPhil) in Individualized Interdisciplinary Program (Artificial Intelligence)
-- **Sep 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology
-
-
-
-<br>
-
----
-
 ## Research Interests
-
 
 - Causality: Causal Inference and Casual Discovery
 - Safe /Trustworthy AI
 - Physics of AGI
 
-My interest lies in the **Machine Learning**.
+My primary mission centers on advancing the interpretability, robustness, fairness, and security of AI systems. Consequently, I have a strong interest in areas such as Safe/Trustworthy AI, which aims to ensure the reliability of AI systems, as well as Causality, which plays a pivotal role in scientific discovery and establishing genuine causal relationships. Additionally, I am deeply engaged in exploring the Physics of AGI, seeking to unravel the intelligence emergent in Large Language Models (LLMs).
+
+<br>
+
+---
+## Academic Background
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
+
+- **Sep 2020 - Sep 2022:** Hong Kong University of Science and Technology, Master of Philosophy (MPhil) in Individualized Interdisciplinary Program (Artificial Intelligence)
+- **Sep 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology
 
 <br>
 
