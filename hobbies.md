@@ -8,9 +8,9 @@ title: Hobbies
 
 ## My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
 
-<!-- ## Swimming & Surfing
+## Swimming & Surfing
 
-<div class="third">
+<!-- <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
@@ -45,9 +45,9 @@ This is my love. Her name is Qbo (Q宝).
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me! -->
 
-<!-- Calendly inline widget begin -->
+<!-- Calendly inline widget begin
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
