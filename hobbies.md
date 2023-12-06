@@ -6,7 +6,9 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
+
+<!-- ## Swimming & Surfing
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -49,5 +51,5 @@ This is my love. Her name is Qbo (Q宝).
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+Calendly inline widget end -->
 
