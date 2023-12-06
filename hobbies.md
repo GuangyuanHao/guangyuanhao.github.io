@@ -4,11 +4,11 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+<!-- # Hobbies -->
 
-## My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
+# My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
 
-## Swimming & Surfing
+<!-- ## Swimming & Surfing -->
 
 <!-- <div class="third">
 <img src="/images/swimming2.JPG">
