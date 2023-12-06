@@ -7,15 +7,15 @@ title: Awards
 ## Honors and Awards
 
 
--2020-2022: **Postgraduate Studentship** (top 1%)<br>220,200 HKD per year, Hong Kong University of Science and Technology
+- 2020-2022: **Postgraduate Studentship** (top 1%)<br>220,200 HKD per year, Hong Kong University of Science and Technology
 <br>
--2015: **China National Scholarship** (top 1%)<br>8,000 CNY, the Ministry of Education, China (the most prestigious honor at my undergraduate institution)
+- 2015: **China National Scholarship** (top 1%)<br>8,000 CNY, the Ministry of Education, China (the most prestigious honor at my undergraduate institution)
 <br>
--2015: **Outstanding Graduates** (top 1%)<br>University of Electronic Science and Technology of China
+- 2015: **Outstanding Graduates** (top 1%)<br>University of Electronic Science and Technology of China
 <br>
--2014: **Sekorm First-class Scholarship** (top 2%)<br>8,000 CNY, SEKORM LIMITED
+- 2014: **Sekorm First-class Scholarship** (top 2%)<br>8,000 CNY, SEKORM LIMITED
 <br>
--2013: **People's First-class Scholarship** (top 10%)<br> 3,000 CNY, University of Electronic Science and Technology of China
+- 2013: **People's First-class Scholarship** (top 10%)<br> 3,000 CNY, University of Electronic Science and Technology of China
 <br>
 
 
