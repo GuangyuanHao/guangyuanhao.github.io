@@ -6,7 +6,7 @@ title: Hobbies
 
 <!-- # Hobbies -->
 
-# My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
+<br>My interests and hobbies cover a diverse array of activities. Currently, I enjoy long-distance running, meditation, boxing, and reading. Additionally, I have plans to explore new areas and learn drawing, finger-style guitar, and tap dance in the near future.
 
 <!-- ## Swimming & Surfing -->
 
