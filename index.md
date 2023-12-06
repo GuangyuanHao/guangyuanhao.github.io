@@ -22,7 +22,7 @@ Email-*guangyuanhao[at]outlook[dot]com*
 - Safe /Trustworthy AI
 - Physics of AGI
 
-My primary mission centers on advancing the interpretability, robustness, fairness, and security of AI systems. Consequently, I have a strong interest in areas such as Safe/Trustworthy AI, which aims to ensure the reliability of AI systems, as well as Causality, which plays a pivotal role in scientific discovery and establishing genuine causal relationships. Additionally, I am deeply engaged in exploring the Physics of AGI, seeking to unravel the intelligence emergent in Large Language Models (LLMs).
+My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am particularly passionate about the field of Safe/Trustworthy AI, ensuring the reliability of AI systems, and causality, which is vital for uncovering and comprehending cause-and-effect relationships, facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of AGI to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
 
 <br>
 
