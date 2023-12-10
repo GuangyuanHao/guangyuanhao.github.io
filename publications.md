@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Conference Paper
-# <sup>*</sup> indices equal contribution<br> 
+<sup>*</sup> *indices equal contribution* <br> 
 
 - [Natural Counterfactuals With Necessary Backtracking](https://sites.google.com/view/counterfactuals-icml/accepted-papers)<br>**Guang-Yuan Hao<sup>*</sup>**, Jiji Zhang<sup>*</sup>, Biwei Huang, Hao Wang, Kun Zhang<br>ICML 2023 Workshop on Counterfactuals in Minds and Machines ((<font color='red'>Oral Presentation</font>, Top 3/38); Submitted to ICLR 2024<br>
 
