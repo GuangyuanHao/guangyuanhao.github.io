@@ -31,7 +31,7 @@ My primary objective centers on improving the interpretability, robustness, fair
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
 - **Sep. 2020 - Sep. 2022:** Hong Kong University of Science and Technology, Master of Philosophy (MPhil) in Individualized Interdisciplinary Program (Artificial Intelligence)
-- **Sep. 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology
+- **Sep. 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology; Ranking 1st/184
 
 <br>
 
