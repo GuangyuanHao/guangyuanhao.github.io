@@ -8,7 +8,7 @@ layout: page
 
 I am Guangyuan Hao, currently serving as a research assistant with a focus on causality. My research is conducted under the guidance of esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) at Carnegie Mellon University (CMU) and [Jiji Zhang](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) at The Chinese University of Hong Kong (CUHK).
 
-Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Trustworthy AI.
+Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
 
 Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) at CMU and Kun Zhang, exploring the fascinating realm of the physics of Large Language Models (LLMs).
 
