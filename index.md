@@ -20,9 +20,9 @@ Email-*guangyuanhao[at]outlook[dot]com*
 
 - Safe /Trustworthy AI
 - Causality: Causal Inference and Casual Discovery
-- Physics of AGI
+- Physics of LLMs
 
-My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am deeply committed to the field of Safe /Trustworthy AI, ensuring the reliability of AI systems, and causality, a critical component for uncovering and comprehending cause-and-effect relationships, inherently equipped with interpretability and facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of AGI to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
+My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am deeply committed to the field of Safe /Trustworthy AI, ensuring the reliability of AI systems, and causality, a critical component for uncovering and comprehending cause-and-effect relationships, inherently equipped with interpretability and facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of LLMs to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
 
 <br>
 
