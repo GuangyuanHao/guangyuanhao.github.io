@@ -10,7 +10,7 @@ I am Guangyuan Hao, currently serving as a research assistant with a focus on ca
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
 
-Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) at CMU and Kun Zhang, exploring the fascinating realm of the physics of Large Language Models (LLMs).
+Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs).
 
 Email-*guangyuanhao[at]outlook[dot]com*
 
@@ -23,7 +23,7 @@ Email-*guangyuanhao[at]outlook[dot]com*
 - Physics of LLMs
 - Safe /Trustworthy AI
 
-My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am deeply committed to the field of Safe /Trustworthy AI, ensuring the reliability of AI systems, and causality, a critical component for uncovering and comprehending cause-and-effect relationships, inherently equipped with interpretability and robustness and facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of LLMs to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
+My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am deeply committed to causality, a critical component for uncovering and comprehending cause-and-effect relationships, inherently equipped with interpretability and robustness and facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of LLMs to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
 
 <br>
 
