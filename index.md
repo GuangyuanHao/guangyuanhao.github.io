@@ -10,7 +10,7 @@ I am Guangyuan Hao, currently serving as a research assistant with a focus on ca
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
 
-Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs).
+Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently.
 
 Email-*guangyuanhao[at]outlook[dot]com*
 
@@ -19,11 +19,15 @@ Email-*guangyuanhao[at]outlook[dot]com*
 ## Research Interests
 
 
-- Causality: Causal Inference and Casual Discovery
+- Causality: Causal Representation Learning, Casual Discovery with Latent Varibles, and Counterfactual Reasoning
 - Physics of LLMs
 - Safe /Trustworthy AI
 
-My primary objective centers on improving the interpretability, robustness, fairness, and security of AI systems. To achieve this, I am deeply committed to causality, a critical component for uncovering and comprehending cause-and-effect relationships, inherently equipped with interpretability and robustness and facilitating evidence-based decision-making. Additionally, I am fully engaged in investigating the Physics of LLMs to unravel the emergence of intelligence within Large Language Models (LLMs) and potentially develop corresponding theories, with the aim of enhancing AGI's intelligence and preventing its misuse.
+My primary focus revolves around the development of theoretical frameworks aimed at explaining data and AI models, as well as addressing real-world challenges to make AI systems trustworthy. I am deeply dedicated to the field of causality, which plays a pivotal role in uncovering and comprehending cause-and-effect relationships. Causality inherently provides interpretability and robustness while enabling evidence-based decision-making. My ultimate goal is to extend the applicability of causality to deal with complex real-world data, such as images, texts, and videos.
+
+Furthermore, I am fully immersed in the exploration of the Physics of Large Language Models (LLMs). My goal is to unravel the emergence of intelligence within these LLMs and potentially formulate corresponding theories. This endeavor aims to elevate the intelligence of Artificial General Intelligence (AGI) and mitigate the risk of its misuse.
+
+I firmly believe that substantial theoretical advancements are driven by real-world applications. My specific focus revolves around harnessing the combined power of causality and LLMs for applications in trustworthy AI and groundbreaking scientific domains, including automated theorem proving, protein research, materials discovery, and more. These domains are pivotal in identifying urgent challenges and unlocking the untapped potential inherent in causality and the physics of LLMs.
 
 <br>
 
