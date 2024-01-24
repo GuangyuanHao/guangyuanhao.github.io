@@ -18,16 +18,18 @@ Email-*guangyuanhao[at]outlook[dot]com*
 
 ## Research Interests
 
-
+- Safe /Trustworthy AI
 - Causality: Causal Representation Learning, Casual Discovery with Latent Varibles, and Counterfactual Reasoning
 - Physics of LLMs
-- Safe /Trustworthy AI
 
-My primary focus revolves around the development of theoretical frameworks aimed at explaining data and AI models, as well as addressing real-world challenges to make AI systems trustworthy. I am deeply dedicated to the field of causality, which plays a pivotal role in uncovering and comprehending cause-and-effect relationships. Causality inherently provides interpretability and robustness while enabling evidence-based decision-making. My ultimate goal is to extend the applicability of causality to deal with complex real-world data, such as images, texts, and videos.
+
+My primary focus revolves around the development of theoretical frameworks aimed at explaining data and AI models and address real-world challenges to make AI systems trustworthy.
+
+<!-- I am deeply dedicated to the field of causality, which plays a pivotal role in uncovering and comprehending cause-and-effect relationships. Causality inherently provides interpretability and robustness while enabling evidence-based decision-making. My ultimate goal is to extend the applicability of causality to deal with complex real-world data, such as images, texts, and videos.
 
 Furthermore, I am fully immersed in the exploration of the Physics of Large Language Models (LLMs). My goal is to unravel the emergence of intelligence within these LLMs and potentially formulate corresponding theories. This endeavor aims to elevate the intelligence of Artificial General Intelligence (AGI) and mitigate the risk of its misuse.
 
-I firmly believe that substantial theoretical advancements are driven by real-world applications. My specific focus revolves around harnessing the combined power of causality and LLMs for applications in trustworthy AI and groundbreaking scientific domains, including automated theorem proving, protein research, materials discovery, and more. These domains are pivotal in identifying urgent challenges and unlocking the untapped potential inherent in causality and the physics of LLMs.
+I firmly believe that substantial theoretical advancements are driven by real-world applications. My specific focus revolves around harnessing the combined power of causality and LLMs for applications in trustworthy AI and groundbreaking scientific domains, including automated theorem proving, protein research, materials discovery, and more. These domains are pivotal in identifying urgent challenges and unlocking the untapped potential inherent in causality and the physics of LLMs. -->
 
 <br>
 
