@@ -19,7 +19,7 @@ Email-*guangyuanhao[at]outlook[dot]com*
 ## Research Interests
 
 - Safe /Trustworthy AI
-- Causality: Causal Representation Learning, Casual Discovery with Latent Varibles, and Counterfactual Reasoning
+- Causality
 - Physics of LLMs
 
 
