@@ -10,9 +10,9 @@ I am Guangyuan Hao, currently serving as a research assistant with a focus on ca
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
 
-Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently.
+<!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
-Email-*guangyuanhao[at]outlook[dot]com*
+Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 <br>
 
@@ -20,7 +20,7 @@ Email-*guangyuanhao[at]outlook[dot]com*
 
 - Safe /Trustworthy AI
 - Causality
-- Physics of LLMs
+<!-- - Physics of LLMs -->
 
 
 My primary focus revolves around the development of theoretical frameworks aimed at explaining data and AI models and address real-world challenges to make AI systems trustworthy.
@@ -44,9 +44,9 @@ I firmly believe that substantial theoretical advancements are driven by real-wo
 
 ---
 
-## News and Updates
+<!-- ## News and Updates
 
-- **Dec 2023：**I just started a new exciting project on the physics of LLMs.
+- **Dec 2023：**I just started a new exciting project on the physics of LLMs. -->
 
 <br>
 
