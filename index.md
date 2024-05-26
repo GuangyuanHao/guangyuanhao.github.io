@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://guangyuanhao.github.io/guangyuan1.jpg" class="floatpic" width="1200" height="800">
 
-I am Guangyuan Hao, currently serving as a research assistant with a focus on causality. My research is conducted under the guidance of esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) at Carnegie Mellon University (CMU) and [Jiji Zhang](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) at The Chinese University of Hong Kong (CUHK).
+I am Guangyuan Hao, currently serving as a research assistant with a focus on causality, physically in Abu Dhabi. My research is conducted under the guidance of esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) at Carnegie Mellon University (CMU) and [Jiji Zhang](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) at The Chinese University of Hong Kong (CUHK).
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
 
