@@ -18,8 +18,9 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 ## Research Interests
 
-- Safe /Trustworthy AI
 - Causality
+- Safe /Trustworthy AI
+
 <!-- - Physics of LLMs -->
 
 
