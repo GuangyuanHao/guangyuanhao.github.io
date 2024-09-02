@@ -17,7 +17,7 @@ My name is Guang-Yuan Hao. I am joining the [ML Alignment & Theory Scholars (MAT
 <!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
 
-Previously, I graduated from the Hong Kong University of Science and Technology with an MPhil (Research-Based) degree in AI. Since then, my research has focused on AI Safety, particularly robustness and interpretability. My previous work aims to provide theoretical guarantees and develop methods to enhance out-of-distribution generalization and robustness in multi-source multi-target domain adaptation and multi-domain active learning. My deep interest in interpretability led me to study causality as a systematic approach for over a year, guided by [Prof. Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji). Currently, I am focusing on AI safety techniques for LLMs. In the near future, I hope to secure a research position at an AI safety organization to better contribute to human well-being and prevent potential hazards from AI.
+Previously, I graduated from the Hong Kong University of Science and Technology with an MPhil (Research-Based) degree in AI. Since then, my research has focused on AI Safety, particularly robustness and interpretability. My previous work aims to provide theoretical guarantees and develop methods to enhance out-of-distribution (OOD) generalization and robustness in multi-source multi-target domain adaptation and multi-domain active learning. My deep interest in interpretability led me to study causality as a systematic approach for over a year, guided by esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji).
 
 Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
@@ -25,8 +25,7 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 ## Research Interests
 
-- Safe /Trustworthy AI
-- Causality
+- Safe and trustworthy AI, including robustness, such as out-of-distribution generalization, and interpretability, including causal reasoning.
 
 
 
