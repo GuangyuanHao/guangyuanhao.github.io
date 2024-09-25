@@ -10,8 +10,8 @@ layout: page
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI. -->
 
-My name is Guang-Yuan Hao. I am currently joining the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley.
-
+I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community.
+ 
  <!-- My research is focusing on AI Safety, especially for LLMs, under the guidance of [Dr. Steven Basart](https://stevenbas.art/) at Center for AI Safety. -->
 
 <!-- Additionally, since 2021, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI. -->
@@ -28,6 +28,7 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 ## Research Interests
 
 - Safe and trustworthy AI, including robustness, such as out-of-distribution generalization, and interpretability, including causal reasoning.
+-
 
 
 
