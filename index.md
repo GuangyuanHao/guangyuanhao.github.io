@@ -60,7 +60,7 @@ I firmly believe that substantial theoretical advancements are driven by real-wo
 
 News and Updates
 
-- **Sept 25th, 2024:** One first-author paper is accepted to NeurIPS 2024.
+- **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
 - **June 15th, 2024:** Starting a journey at Berkeley for MATS program.
 
 <!-- - **Dec 2023:** I just started a new exciting project on the physics of LLMs. -->
