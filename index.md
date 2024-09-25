@@ -19,11 +19,24 @@ Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies tha
 <!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
 
-Previously, I graduated from the Hong Kong University of Science and Technology with an MPhil (Research-Based) degree in AI. Since then, my research has focused on AI Safety, particularly robustness and interpretability. My previous work aims to provide theoretical guarantees and develop methods to enhance out-of-distribution (OOD) generalization and robustness in multi-source multi-target domain adaptation and multi-domain active learning. My deep interest in interpretability led me to study causality as a systematic approach for over a year, guided by esteemed professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
+I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability. My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness, specifically in multi-source multi-target domain adaptation and multi-domain active learning. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
 
 Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 <br>
+
+---
+
+News and Updates
+
+- **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
+- **June 15th, 2024:** Starting a journey at Berkeley for MATS program.
+
+<!-- - **Dec 2023:** I just started a new exciting project on the physics of LLMs. -->
+
+<br>
+
+---
 
 ## Research Interests
 
@@ -57,14 +70,5 @@ I firmly believe that substantial theoretical advancements are driven by real-wo
 
 <br>
 
----
 
-News and Updates
-
-- **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
-- **June 15th, 2024:** Starting a journey at Berkeley for MATS program.
-
-<!-- - **Dec 2023:** I just started a new exciting project on the physics of LLMs. -->
-
-<br>
 
