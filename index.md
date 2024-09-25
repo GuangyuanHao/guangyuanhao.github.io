@@ -28,7 +28,7 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 ---
 
-*News and Updates*
+***News and Updates***
 
 - **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
 - **June 15th, 2024:** Starting a journey at Berkeley for MATS program.
