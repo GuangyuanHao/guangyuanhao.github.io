@@ -19,7 +19,7 @@ My name is Guang-Yuan Hao. I am currently joining the [ML Alignment & Theory Sch
 <!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
 
-Previously, I graduated from the Hong Kong University of Science and Technology with an MPhil (Research-Based) degree in AI. Since then, my research has focused on AI Safety, particularly robustness and interpretability. My previous work aims to provide theoretical guarantees and develop methods to enhance out-of-distribution (OOD) generalization and robustness in multi-source multi-target domain adaptation and multi-domain active learning. My deep interest in interpretability led me to study causality as a systematic approach for over a year, guided by esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji).
+Previously, I graduated from the Hong Kong University of Science and Technology with an MPhil (Research-Based) degree in AI. Since then, my research has focused on AI Safety, particularly robustness and interpretability. My previous work aims to provide theoretical guarantees and develop methods to enhance out-of-distribution (OOD) generalization and robustness in multi-source multi-target domain adaptation and multi-domain active learning. My deep interest in interpretability led me to study causality as a systematic approach for over a year, guided by esteemed professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
 
 Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
@@ -52,7 +52,7 @@ I firmly believe that substantial theoretical advancements are driven by real-wo
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
 - **Sep. 2020 - Sep. 2022:** Hong Kong University of Science and Technology, Master of Philosophy (MPhil) in Individualized Interdisciplinary Program (Artificial Intelligence); Awarded a full scholarship
-<!-- - **Sep. 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology; Ranking 1st/184 -->
+- **Sep. 2012 - July 2016:** University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology; Ranking 1st/184
 
 <br>
 
