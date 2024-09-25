@@ -18,6 +18,7 @@ Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies tha
 
 <!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
+<br>
 
 I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability. My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness, specifically in multi-source multi-target domain adaptation and multi-domain active learning. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
 
@@ -27,7 +28,7 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 ---
 
-News and Updates
+*News and Updates*
 
 - **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
 - **June 15th, 2024:** Starting a journey at Berkeley for MATS program.
