@@ -10,7 +10,7 @@ title: Awards
 <br>
 - 2020-2022: **Postgraduate Studentship** <br> Hong Kong University of Science and Technology
 <br>
-- 2015: **China National Scholarship** (top 1%)<br> the Ministry of Education, China (the most prestigious honor at my undergraduate institution)
+- 2015: **China National Scholarship** (top 1%)<br> the Ministry of Education, China (the most prestigious honor for undergraduate students)
 <br>
 - 2015: **Outstanding Graduates** (top 1%)<br> University of Electronic Science and Technology of China
 <br>
