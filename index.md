@@ -10,7 +10,10 @@ layout: page
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI. -->
 
-Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community.
+Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I am now working on theoretical foundations of muitimodal learning under Prof. Paul Liang at MIT.
+
+
+I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community.
  
  <!-- My research is focusing on AI Safety, especially for LLMs, under the guidance of [Dr. Steven Basart](https://stevenbas.art/) at Center for AI Safety. -->
 
