@@ -45,8 +45,10 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 ## Research Interests
 
-- **Safe and trustworthy AI**: Emphasis on robustness, including out-of-distribution generalization, and interpretability, such as causal reasoning.
-- **Multisensory Intelligence**: Exploration of both theoretical and practical approaches to understanding and utilizing multisensory data, with applications in areas like healthcare and AI safety.
+ 
+- **Safe and Trustworthy AI**: Advancing distribution-shift robustness (out-of-distribution generalization), enhancing interpretability through causal frameworks, and ensuring alignment with human values and intent.
+- **Multimodal Learning**: Multimodal Learning: Investigating both theoretical foundations and practical methodologies for leveraging multimodal data, with impactful applications in domains such as healthcare and AI safety.
+<!-- - **Multisensory Intelligence**: Exploration of both theoretical and practical approaches to understanding and utilizing multisensory data, with applications in areas like healthcare and AI safety. -->
 
 
 
