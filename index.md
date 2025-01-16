@@ -10,7 +10,7 @@ layout: page
 
 Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI. -->
 
-Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society.I am now working on the theoretical foundations of multimodal learning under Prof. Paul Liang at MIT.
+Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I am now working on the theoretical foundations of multimodal learning under Prof. Paul Liang at MIT.
 <br>
 
 I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community.
@@ -23,7 +23,7 @@ I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://ww
 
 <br>
 
-I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness, specifically in multi-source multi-target domain adaptation and multi-domain active learning. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
+I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
 
 Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
