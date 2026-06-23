@@ -17,8 +17,8 @@ featured_video:
     <div class="home-actions">
       <a class="home-button primary" href="#papers">Papers</a>
       <a class="home-button" href="#blog">Blog</a>
-      <a class="home-button" href="file/Resume_Guangyuan_Hao.pdf">CV</a>
-      <a class="home-button" href="mailto:guangyuan.hao@connect.ust.hk">Email</a>
+      <!-- <a class="home-button" href="file/Resume_Guangyuan_Hao.pdf">CV</a> -->
+      <a class="home-button" href="mailto:gh463@cornell.edu">Email</a>
     </div>
     <div class="quick-facts">
       <div class="fact-item">
