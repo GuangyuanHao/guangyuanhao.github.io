@@ -12,12 +12,12 @@ Additionally, since 2020, I have had the privilege of closely collaborating with
 
 <!-- Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I am now working on the theoretical foundations of multimodal learning under Prof. Paul Liang at MIT. -->
 
-Hi, I am Guangyuan Hao, a PhD student at Cornell, where I work on reinforcement learning theory and its applications with [Nathan Kallus](https://nathankallus.com/). I will be based at Cornell Tech starting in the coming fall semester. <br>
+Hi, I am Guangyuan Hao, a PhD student at Cornell, where I work on reinforcement learning theory, causality, and their applications with [Nathan Kallus](https://nathankallus.com/). I will be based at Cornell Tech starting in the coming fall semester. <br>
 
 
-Previously, I was a visiting scholar in the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley, and I also visited [Paul Liang](https://pliang279.github.io/) at MIT. <br>
+<!-- Previously, I was a visiting scholar in the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley, and I also visited [Paul Liang](https://pliang279.github.io/)'s group at MIT. <br>
 
-I received my MPhil from the Hong Kong University of Science and Technology, where I was advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). I have also worked closely with [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/). <br>
+I graduated from the Hong Kong University of Science and Technology, where I was advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). I have also worked closely with [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/). <br> -->
 
 <!-- I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community. -->
  
