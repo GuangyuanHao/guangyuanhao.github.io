@@ -48,6 +48,13 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 
 <br>
 
+***Fun Stat***
+- Website visitor counts by country since June 23, 2026:
+
+<a href="https://info.flagcounter.com/2epM"><img src="https://s01.flagcounter.com/count2/2epM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_180/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<br>
+
 <!-- --- -->
 
 <!-- ## Research Interests
