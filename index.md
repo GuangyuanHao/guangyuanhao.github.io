@@ -11,28 +11,11 @@ featured_video:
     <p class="home-subtitle">
       Hi, I am Guangyuan Hao, a PhD student at Cornell, where I work on reinforcement learning theory, causality, and their applications with <a href="https://nathankallus.com/">Nathan Kallus</a>. I will be based at Cornell Tech starting in the coming fall semester.
     </p>
-    <p class="home-subtitle">
-      Previously, I was a visiting scholar in the <a href="https://www.matsprogram.org">ML Alignment &amp; Theory Scholars (MATS) Program</a> at Berkeley, and I also visited <a href="https://pliang279.github.io/">Paul Liang</a>'s group at MIT. I graduated from the Hong Kong University of Science and Technology, where I was advised by Professors <a href="https://sites.google.com/view/dyyeung">Dit-Yan Yeung</a> and <a href="http://www.wanghao.in/">Hao Wang</a>. I have also worked closely with <a href="https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji">Jiji Zhang</a> and <a href="https://www.andrew.cmu.edu/user/kunz1/">Kun Zhang</a>.
-    </p>
     <div class="home-actions">
       <a class="home-button primary" href="#papers">Papers</a>
       <a class="home-button" href="#blog">Blog</a>
       <!-- <a class="home-button" href="file/Resume_Guangyuan_Hao.pdf">CV</a> -->
       <a class="home-button" href="mailto:gh463@cornell.edu">Email</a>
-    </div>
-    <div class="quick-facts">
-      <div class="fact-item">
-        <span class="fact-label">Research</span>
-        <span class="fact-value">RL Theory / Causality</span>
-      </div>
-      <div class="fact-item">
-        <span class="fact-label">Current</span>
-        <span class="fact-value">Cornell / Cornell Tech</span>
-      </div>
-      <div class="fact-item">
-        <span class="fact-label">Recent</span>
-        <span class="fact-value">NeurIPS 2024</span>
-      </div>
     </div>
   </div>
 
@@ -40,6 +23,8 @@ featured_video:
     <img src="/guangyuan1.jpg" alt="Guangyuan Hao">
   </div>
 </section>
+
+
 
 <section class="home-section" id="news">
   <div class="section-head">
@@ -107,6 +92,12 @@ featured_video:
   </p>
   <div class="blog-grid">
     <article class="blog-card">
+      <div class="blog-meta">Sample</div>
+      <h3><a href="/blogs/">A Future Blog Post</a></h3>
+      <p>A placeholder for research notes, essays, or updates you may want to feature later.</p>
+    </article>
+    <!--
+    <article class="blog-card">
       <div class="blog-meta">2024</div>
       <h3><a href="/blogs/24fall/">24Fall Application Notes</a></h3>
       <p>A long-form application record and reflection.</p>
@@ -121,6 +112,7 @@ featured_video:
       <h3><a href="/blogs/cambridge/">Cambridge Research Memory</a></h3>
       <p>Notes from an online summer research experience.</p>
     </article>
+    -->
   </div>
 </section>
 
@@ -164,3 +156,43 @@ featured_video:
     </article>
   </div>
 </section>
+
+<!--
+Archived notes from the previous homepage draft.
+
+I am Guangyuan Hao, currently serving as a research assistant with a focus on causality, physically in Abu Dhabi. My research is conducted under the guidance of esteemed professors [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) at Carnegie Mellon University (CMU) and [Jiji Zhang](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) at The Chinese University of Hong Kong (CUHK).
+
+Additionally, since 2020, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
+
+Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I am now working on the theoretical foundations of multimodal learning under Prof. Paul Liang at MIT.
+
+I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community.
+
+My research is focusing on AI Safety, especially for LLMs, under the guidance of [Dr. Steven Basart](https://stevenbas.art/) at Center for AI Safety.
+
+Additionally, since 2021, I have had the privilege of closely collaborating with Professor [Hao Wang](http://www.wanghao.in/) at Rutgers University, specifically in the field of Safe /Trustworthy AI.
+
+Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently.
+
+I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
+
+Research Interests
+
+- Safe and Trustworthy AI: Advancing distribution-shift robustness (out-of-distribution generalization), enhancing interpretability through causal frameworks, and ensuring alignment with human values and intent.
+- Multimodal Learning: Investigating both theoretical foundations and practical methodologies for leveraging multimodal data, with impactful applications in domains such as healthcare and AI safety.
+- Multisensory Intelligence: Exploration of both theoretical and practical approaches to understanding and utilizing multisensory data, with applications in areas like healthcare and AI safety.
+- Physics of LLMs
+
+My primary focus revolves around the development of theoretical frameworks aimed at explaining data and AI models and address real-world challenges to make AI systems trustworthy.
+
+I am deeply dedicated to the field of causality, which plays a pivotal role in uncovering and comprehending cause-and-effect relationships. Causality inherently provides interpretability and robustness while enabling evidence-based decision-making. My ultimate goal is to extend the applicability of causality to deal with complex real-world data, such as images, texts, and videos.
+
+Furthermore, I am fully immersed in the exploration of the Physics of Large Language Models (LLMs). My goal is to unravel the emergence of intelligence within these LLMs and potentially formulate corresponding theories. This endeavor aims to elevate the intelligence of Artificial General Intelligence (AGI) and mitigate the risk of its misuse.
+
+I firmly believe that substantial theoretical advancements are driven by real-world applications. My specific focus revolves around harnessing the combined power of causality and LLMs for applications in trustworthy AI and groundbreaking scientific domains, including automated theorem proving, protein research, materials discovery, and more. These domains are pivotal in identifying urgent challenges and unlocking the untapped potential inherent in causality and the physics of LLMs.
+
+Academic Background
+
+- Sep. 2020 - Sep. 2022: Hong Kong University of Science and Technology, Master of Philosophy (MPhil) in Individualized Interdisciplinary Program (Artificial Intelligence); Awarded a full scholarship
+- Sep. 2012 - July 2016: University of Electronic Science and Technology of China, Bachelor of Engineering (B.E.) in Information Display and Optoelectronic Technology; Ranking 1st/184
+-->
