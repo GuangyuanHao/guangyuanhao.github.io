@@ -12,10 +12,12 @@ Additionally, since 2020, I have had the privilege of closely collaborating with
 
 <!-- Hi, I am Guangyuan Hao, a researcher dedicated to developing AI technologies that positively impact society. I am now working on the theoretical foundations of multimodal learning under Prof. Paul Liang at MIT. -->
 
-Hi, I am Guangyuan Hao, a PhD student at Cornell now and will move to Cornell Tech in the new Fall semester. I am now working on reinforcement learning theory and its applications with [Nathan Kallus](https://nathankallus.com/).
+Hi, I am Guangyuan Hao, a PhD student at Cornell, where I work on reinforcement learning theory and its applications with [Nathan Kallus](https://nathankallus.com/). I will be based at Cornell Tech starting in the coming fall semester. <br>
 
-<br>
-Previously, I visited [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley and [Paul Liang](https://pliang279.github.io/) at MIT.
+
+Previously, I was a visiting scholar in the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley, and I also visited [Paul Liang](https://pliang279.github.io/) at MIT. <br>
+
+I received my MPhil from the Hong Kong University of Science and Technology, where I was advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). I have also worked closely with [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/). <br>
 
 <!-- I recently joined the [ML Alignment & Theory Scholars (MATS) Program](https://www.matsprogram.org) at Berkeley for a ten-week period, where I worked on AI safety research and participated in talks and workshops within the Berkeley alignment research community. -->
  
@@ -25,9 +27,9 @@ Previously, I visited [ML Alignment & Theory Scholars (MATS) Program](https://ww
 
 <!-- Furthermore, I am engaged in collaborative research endeavors with Professors [Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and Kun Zhang at CMU, exploring the fascinating realm of the physics of Large Language Models (LLMs) recently. -->
 
-<br>
 
-I graduated from the Hong Kong University of Science and Technology, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). I have worked closely under the guidance of [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/).
+
+
 
 <!-- I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/). -->
 
@@ -38,15 +40,15 @@ Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
 ---
 
 ***News and Updates***
-- **August 21th, 2025:** Starting the PhD journey at Cornell!
-- **Sept 25th, 2024:** A first-author paper has been accepted to NeurIPS 2024, proposing a new theoretical framework for counterfactual inference grounded in the philosophical perspective of backtracking counterfactuals.
+- **August 20th, 2025:** I started my PhD at Cornell.
+- **September 25th, 2024:** A paper was accepted to NeurIPS 2024, introducing a new theoretical framework for counterfactual inference grounded in backtracking counterfactuals.
 <!-- - **June 15th, 2024:** Starting a journey at Berkeley for MATS program. -->
 
 <!-- - **Dec 2023:** I just started a new exciting project on the physics of LLMs. -->
 
 <br>
 
----
+<!-- --- -->
 
 <!-- ## Research Interests
 
@@ -73,7 +75,7 @@ I firmly believe that substantial theoretical advancements are driven by real-wo
 
 <!-- <br> -->
 
----
+<!-- --- -->
 <!-- ## Academic Background -->
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
