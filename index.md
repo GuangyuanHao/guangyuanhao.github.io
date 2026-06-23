@@ -33,7 +33,7 @@ I graduated from the Hong Kong University of Science and Technology, where I was
 
 <!-- I graduated from the Hong Kong University of Science and Technology with an MPhil, where my research focused on AI Safety, particularly in the areas of robustness and interpretability, advised by Professors [Dit-Yan Yeung (HKUST)](https://sites.google.com/view/dyyeung) and [Hao Wang (Rutgers)](http://www.wanghao.in/). My recent work has aimed to establish theoretical guarantees and develop methods to improve out-of-distribution (OOD) generalization and robustness. Driven by a deep interest in interpretability, I have spent over a year studying causality, working closely under the guidance of renowned professors [Jiji Zhang (CUHK)](https://arts.cuhk.edu.hk/web/index.php/professor-zhang-jiji) and [Kun Zhang (CMU)](https://www.andrew.cmu.edu/user/kunz1/). -->
 
-Email-* guangyuan.hao[at]connect[dot]ust[dot]hk*
+<!-- Email-* guangyuan.hao[at]connect[dot]ust[dot]hk* -->
 
 <br>
 
