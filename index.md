@@ -93,8 +93,8 @@ featured_video:
   <div class="blog-grid">
     <article class="blog-card">
       <div class="blog-meta">Sample</div>
-      <h3><a href="/blogs/">A Future Blog Post</a></h3>
-      <p>A placeholder for research notes, essays, or updates you may want to feature later.</p>
+      <h3><a href="/blogs/sample/">Sample Blog Post</a></h3>
+      <p>A normal sample post showing where future research notes, essays, or updates can live.</p>
     </article>
     <!--
     <article class="blog-card">
