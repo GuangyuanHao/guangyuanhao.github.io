@@ -19,5 +19,5 @@ title: Publications
 
 <!-- - [MIXGAN: Learning Concepts from Different Domains for Mixture Generation](https://www.ijcai.org/proceedings/2018/306)<br> **Guang-Yuan Hao**, Hongxing Yu, Weishi Zheng<br>IJCAI 2018 (<font color='red'>Oral Presentation</font>)<br> -->
 
-  <br>
+  <!-- <br> -->
 
