@@ -23,3 +23,13 @@ You can write equations, links, lists, images, and normal Markdown text here.
 
 Your text goes here.
 ```
+
+<br>
+
+## Leave a Message
+
+<br>
+
+{% include disqus.html %}
+
+<br>
